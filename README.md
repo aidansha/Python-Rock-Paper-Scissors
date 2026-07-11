@@ -1,4 +1,4 @@
-# Python-Rock-Paper-Scissors
+# Python Rock Paper Scissors
 A game written in Python that lets you play Rock Paper Scissors against your computer.
 ## Features
 - Text formatting
@@ -8,7 +8,7 @@ A game written in Python that lets you play Rock Paper Scissors against your com
 ### Windows version (.exe)
 - A computer running Windows, preferably Windows 10 or later
 ### Raw Python file (.py)
-- Python 3.6+ (3.13 reccomended)
+- Python 3.6+ (3.13+ reccomended)
 - 'colorama' module (install via pip)
 
 ## Installation
